@@ -1,2 +1,2 @@
 # matrixCalculator-using8086
-COA_Project
+Computer Organization and Architecture(COA)_Project
